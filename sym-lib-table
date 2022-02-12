@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "is31fl3731")(type "Legacy")(uri "C:/Users/Sahil Mehta/Documents/Keypad Project/Libraries/PCB/keyboard_parts.pretty-master/is31fl3731.lib")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "Legacy")(uri "C:/Users/Sahil Mehta/Documents/Keypad Project/Libraries/PCB/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "2022-01-05_06-15-22")(type "Legacy")(uri "C:/Users/Sahil Mehta/Documents/Keypad Project/Libraries/PCB/ATMEGA32U4 AU/2022-01-05_06-15-22/2022-01-05_06-15-22.lib")(options "")(descr ""))
+)
